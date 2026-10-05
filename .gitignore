@@ -1,0 +1,10 @@
+*.o
+*.ko
+*.mod*
+.*.cmd
+Module.symvers
+modules.order
+monitor
+logger_daemon
+*.log
+*.csv
