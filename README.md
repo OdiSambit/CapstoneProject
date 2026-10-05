@@ -67,4 +67,4 @@ app/     monitor.cpp logger_daemon.cpp    scripts/  tests/  docs/
 - Move sample work to a tasklet/workqueue (bottom half); add device-tree/platform-driver binding
 
 ## Author / License
-Your Name, Roll No. — GPL-2.0 (kernel module), MIT for user space.
+Odi Sambit — GPL-2.0 (kernel module), MIT for user space.
